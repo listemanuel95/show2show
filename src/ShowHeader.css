@@ -1,0 +1,9 @@
+.show {
+	display: flex;
+	padding: 1rem;
+	gap: 2rem;
+}
+
+.show-title {
+	color: #FF79C6;
+}

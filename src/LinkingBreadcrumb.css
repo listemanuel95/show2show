@@ -1,0 +1,11 @@
+.linking-breadcrumb {
+	display: flex;
+	padding: 1rem;
+}
+
+.selection-div {
+	display: flex;
+	align-items: center;
+	margin-left: 0.5rem;
+	gap: 0.25rem;
+}
