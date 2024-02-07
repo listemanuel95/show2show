@@ -4,7 +4,7 @@
 ### Local Setup
 Requires:
 - Some version of `node`. I used 18.17.1 for some reason. IDK what other versions are supported.
-- An API Key / Bearer token for the [https://developer.themoviedb.org/docs/getting-started](TMDB) API.
+- An API Key / Bearer token for the [TMDB](https://developer.themoviedb.org/docs/getting-started) API.
 
 Setup:
 - Run `npm install`, I think.
