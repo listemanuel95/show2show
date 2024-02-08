@@ -1,5 +1,5 @@
 ## show2show
-**DISCLAIMER**: I'm not a frontend developer. I *hate* javascript. Tread carefully.
+**DISCLAIMER**: I'm not a frontend developer. Tread carefully.
 
 ### Local Setup
 Requires:
